@@ -1,2 +1,2 @@
 # Cyber_attacks_detection.
-this project classify the cyber attacks
+This project classify the cyber attacks.
